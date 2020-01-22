@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+/*-------------------
+      reset css 
+---------------------*/
+html,body{margin:0; padding:0;}
+body {height:100%; font-size:15px; line-height:1; color:#262626; min-height:10px;}
+address, article, aside, canvas, details, figure, figcaption, footer, header, menu, nav, section, p, h1, h2, h3, h4, h5, h6, a  {display:block; margin:0; padding:0;}
+h1, h2, h3, h4, h5, h6 {font-size:100%; font-weight:normal;}
+img {vertical-align:middle;}
+ol, ul, li, dl, dt, dd {list-style:none; margin: 0; padding: 0;}
+table {width:100%; border-spacing:0px; border-collapse:collapse;}
+th, td {word-break:break-all; font-weight:normal;}
+fieldset, iframe {width:100%;}
+em, address {font-style:normal;}
+button, select, input, label {vertical-align:middle;}
+a{text-decoration: none; color:#fff; }
+/* IR */
+.blind {position:absolute; top:-9999em; left:-9999em; z-index:-1; font-size:0; line-height:0;}
