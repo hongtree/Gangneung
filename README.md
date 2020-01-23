@@ -1,1 +1,8 @@
-강릉 관광 사이트 리뉴얼입니다.
+# 강릉관광 웹사이트 리뉴얼
+
+## Program Stacks
+
+* HTML
+* CSS
+* Java Script
+* jQuery
